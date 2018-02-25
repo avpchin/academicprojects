@@ -1,0 +1,36 @@
+Vancouver
+Calgary
+Helena
+Seattle
+Portland
+San Francisco
+Salt Lake City
+Las Vegas
+Los Angeles
+Phoenix
+El Paso
+Santa Fe
+Denver
+Omaha
+Duluth
+Winnipeg
+Sault St. Marie
+Toronto
+Montreal
+Boston
+New York
+Washington
+Pittsburgh
+Chicago
+Saint Louis
+Kansas City
+Oklahoma City
+Little Rock
+Dallas
+Houston
+New Orleans
+Atlanta
+Nashville
+Raleigh
+Charleston
+Miami

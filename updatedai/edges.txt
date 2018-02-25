@@ -1,0 +1,100 @@
+Calgary,Seattle,grey,4
+Charleston,Atlanta,grey,2
+Charleston,Raleigh,grey,2
+Chicago,Duluth,red,3
+Chicago,Omaha,blue,4
+Chicago,Pittsburgh,black,3
+Chicago,Pittsburgh,orange,3
+Chicago,Saint Louis,green,2
+Chicago,Saint Louis,brown,2
+Chicago,Toronto,brown,4
+Dallas,El Paso,red,4
+Dallas,Little Rock,grey,2
+Denver,Kansas City,black,4
+Denver,Kansas City,orange,4
+Denver,Oklahoma City,red,4
+Denver,Omaha,magenta,4
+Denver,Phoenix,brown,5
+Denver,Salt Lake City,red,3
+Denver,Salt Lake City,indigo,3
+Denver,Santa Fe,grey,2
+El Paso,Oklahoma City,indigo,5
+El Paso,Santa Fe,grey,2
+Helena,Calgary,grey,4
+Helena,Denver,green,4
+Helena,Duluth,orange,6
+Helena,Omaha,red,5
+Helena,Salt Lake City,magenta,3
+Helena,Seattle,indigo,6
+Helena,Winnipeg,blue,4
+Houston,Dallas,grey,1
+Houston,Dallas,grey,1
+Houston,El Paso,green,6
+Houston,New Orleans,grey,2
+Kansas City,Saint Louis,blue,2
+Kansas City,Saint Louis,magenta,2
+Las Vegas,Los Angeles,grey,2
+Las Vegas,Salt Lake City,orange,3
+Los Angeles,El Paso,black,6
+Los Angeles,Phoenix,grey,3
+Los Angeles,San Francisco,magenta,3
+Los Angeles,San Francisco,indigo,3
+Miami,Atlanta,blue,5
+Miami,Charleston,magenta,4
+Miami,New Orleans,red,6
+Montreal,Boston,grey,2
+Montreal,Boston,grey,2
+Montreal,New York,blue,3
+Montreal,Sault St. Marie,black,5
+Nashville,Atlanta,grey,1
+Nashville,Little Rock,brown,3
+Nashville,Pittsburgh,indigo,4
+Nashville,Raleigh,black,3
+Nashville,Saint Louis,grey,2
+New Orleans,Atlanta,orange,4
+New Orleans,Atlanta,indigo,4
+New Orleans,Little Rock,green,3
+New York,Boston,red,2
+New York,Boston,indigo,2
+New York,Pittsburgh,green,2
+New York,Pittsburgh,brown,2
+New York,Washington,black,2
+New York,Washington,orange,2
+Oklahoma City,Dallas,grey,2
+Oklahoma City,Dallas,grey,2
+Oklahoma City,Kansas City,grey,2
+Oklahoma City,Kansas City,grey,2
+Oklahoma City,Little Rock,grey,2
+Omaha,Duluth,grey,2
+Omaha,Duluth,grey,2
+Omaha,Kansas City,grey,1
+Omaha,Kansas City,grey,1
+Phoenix,El Paso,grey,3
+Phoenix,Santa Fe,grey,3
+Portland,Salt Lake City,blue,6
+Portland,San Francisco,green,5
+Portland,San Francisco,magenta,5
+Portland,Seattle,grey,1
+Portland,Seattle,grey,1
+Raleigh,Atlanta,grey,2
+Raleigh,Atlanta,grey,2
+Raleigh,Pittsburgh,grey,2
+Raleigh,Washington,grey,2
+Raleigh,Washington,grey,2
+San Francisco,Salt Lake City,orange,5
+San Francisco,Salt Lake City,brown,5
+Santa Fe,Oklahoma City,blue,3
+Sault St. Marie,Duluth,grey,3
+Sault St. Marie,Toronto,grey,2
+Saint Louis,Little Rock,grey,2
+Saint Louis,Pittsburgh,green,5
+Toronto,Duluth,magenta,6
+Toronto,Montreal,grey,3
+Toronto,Pittsburgh,grey,2
+Vancouver,Calgary,grey,3
+Vancouver,Seattle,grey,1
+Vancouver,Seattle,grey,1
+Washington,Pittsburgh,grey,2
+Winnipeg,Calgary,brown,6
+Winnipeg,Duluth,black,4
+Winnipeg,Sault St. Marie,grey,6

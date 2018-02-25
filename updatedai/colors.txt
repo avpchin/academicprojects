@@ -1,0 +1,9 @@
+magenta 12
+brown 12
+blue 12
+indigo 12
+orange 12
+black 12
+red 12
+green 12
+rainbow 14

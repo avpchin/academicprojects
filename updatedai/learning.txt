@@ -1,0 +1,16 @@
+30740
+incompleteRouteFractionOfRoutesPoints 92.4264990839
+routesFromDeckRatio -89.4306105097
+bias.draw 2.919342239
+inverseRouteCost 1148.18394486
+affordability 323.411461138
+maxInverseEndpointDegree -23.7911431853
+trainsRemainingRatio -146.297481303
+bias.edge -21.2377472306
+sketchyTotalHandRatio -199.078594323
+bias -23.1179421818
+sketchyMinTrainRatio 258.435805552
+bias.route -1.49367309834
+extremelySketchyAffordability 84.420517105
+routeIncompletionRatio -88.1439399403
+myHandRatio -50.1361471478
