@@ -1,3 +1,5 @@
+Final project with Kar Yern Chin '18, Julia Goldman '18, Michael Zuo '18
+
 Usage:
 	python game.py <seed> <player class>...
 
